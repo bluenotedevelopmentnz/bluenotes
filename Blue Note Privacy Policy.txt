@@ -1,0 +1,35 @@
+Privacy Policy for Blue Prince Directory
+
+Effective Date: 24/05/2025
+
+Blue Prince Directory ("we", "our", or "us") respects your privacy. This privacy policy explains how our app collects, uses, and handles your information.
+
+1. Information We Collect
+The Blue Prince Directory app is designed to store game-related notes and images locally on your device. We do not collect or store any personal data on external servers.
+However, the app may collect the following non-personal data automatically through services provided by Google:
+Crash Reports: In the event of an app crash, anonymized crash data may be automatically sent to Google Play and Firebase Crashlytics to help us improve the app’s stability.
+Usage Data: Google may collect general, aggregated usage data (such as frequency of use and basic interaction metrics) via Google Play Services.
+
+2. How We Use Information
+We use the data collected only to:
+ * Monitor and analyze app performance
+ * Fix bugs and improve user experience
+
+We do not sell, share, or transfer your data to any third parties.
+
+3. Local Storage of Notes and Images
+All notes, including any linked images or photos, are stored locally on your device. The app allows you to attach existing images on your device to your notes. These images are not uploaded, shared, or accessed by us or any third party.
+
+4. Third-Party Services
+The app uses the following third-party services that may collect information:
+ * Google Play Services - https://policies.google.com/privacy
+ * Firebase Crashlytics - https://firebase.google.com/support/privacy
+
+5. Your Rights and Choices
+Since we do not collect or store personal information, there is no personal data for us to modify, delete, or provide access to. You can manage crash reporting and usage data collection through your device’s settings by adjusting the permissions for Google Play Services.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be reflected by updating the effective date at the top of this policy. You are encouraged to review this policy periodically for any changes.
+
+7. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at: blue.note.development.nz@gmail.com
